@@ -1,3 +1,6 @@
+/*@autor: axeMay (Maiara Machado)
+ */
+
 package model;
 
 import java.io.Serializable;
