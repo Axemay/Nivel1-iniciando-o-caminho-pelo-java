@@ -8,5 +8,6 @@
   <li>Criação do Cadastro em Modo Texto</li>
 </ol>
 
+<p>Para a entrega final é considerado a elaboração de um relatório de desenvolvimento com todos os códigos desenvolvidos nos dois procedimentos, além de seções de análise e conclusão.</p>
 
 
